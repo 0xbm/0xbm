@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @0xbm aka MBatorski
+- 👋 Hi, I’m @0xbm 
 - 🌱 I’m currently learning new stuff in python :D
 - 💞️ I’m looking to collaborate on new dev company 
 - 📫 How to reach me >> 0xmb@protonme.com
